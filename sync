@@ -24,7 +24,7 @@ repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync 
 
 # local manifest
 rm -rf prebuilts/gcc/linux-x86/aarch64 
-git clone --depth=1 https://github.com/TheChosenNopler/device_oneplus_guacamoles.git -b device/oneplus/guacamoles
+git clone --depth=1 https://github.com/TheChosenNopler/device_oneplus_guacamoles.git -b 
 git clone --depth=1 https://github.com/TheChosenNopler/device_oneplus_sm8150-common.git -b 
 git clone --depth=1 https://github.com/PixelOS-Devices/kernel_oneplus_sm8150.git kernel/oneplus/sm8150
 git clone --depth=1 https://github.com/TheChosenNopler/vendor_oneplus_guacamoles.git vendor/oneplus
