@@ -5,11 +5,11 @@ env: # Environment variables to pass to all tasks
 # store our secrets here
     github_token: "ENCRYPTED[!61c1bd68126e54779ac6f991a81f8bbb2ca21142a776f8a953e1eb92f01b2ed54d8a2b381f84b7a4f6ee57d57e39bf98!]"
     bot_api: "ENCRYPTED[!a4cd205238dc29d3b78b45f8b1873c6d5edbcf37bafa3106abb4c0be9eae29464ccac8d7df72755c07a9cd520afd0e48!]"
-    chat_id: "ENCRYPTED[!baa8b2a9ed03e002241e9bda7a53424e85bfa2d07fe915e0f3701c5ecff4089bcfa9a5b7aa575a503faf2071fc5d9354!]"
+    chat_id: "ENCRYPTED[!b85e4f9bfff808d985dd2200c64d1cb33f0492763d282a7056a2ebf88d6557d439b9853907eb29ad533bfc3bd5aa67d8!]"
     git_cookies: 0
 
 # store information about git here
-    gmail: xyz@gmail.com
+    gmail: adrianstechtelegram@gmail.com
 
 # ××× Do not edit or touch anything below this ××× #
     user_version: 2 # lets start from 1
